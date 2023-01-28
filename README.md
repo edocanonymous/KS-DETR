@@ -6,14 +6,8 @@ We release our code for `KS-DETR: Knowledge Sharing in Attention Learning for De
 
 
 ## What's New
-v0.2.0 was released on 13/11/2022:
-- Release new baselines for `DINO-R50-12ep`, `DINO-Swin-Large-36ep`, `DAB-Deformable-DETR-R50-50ep`, `DAB-Deformable-DETR-R50-Two-Stage`, please check [Model Zoo](https://detrex.readthedocs.io/en/latest/tutorials/Model_Zoo.html).
-- Rebuild more clear config files for projects.
-- Support [H-Deformable-DETR](./projects/h_deformable_detr/)
-- Release H-Deformable-DETR pretrained weights including `H-Deformable-DETR-R50`, `H-Deformable-DETR-Swin-Tiny`, `H-Deformable-DETR-Swin-Large` in [H-Deformable-DETR](./projects/h_deformable_detr/)
-- Add demo for visualizing customized input images or videos using pretrained weights in [demo](./demo/)
 
-Please see [changelog.md](./changlog.md) for details and release history.
+We will finish releasing the code by Jan. 31.
 
 ## Installation
 
