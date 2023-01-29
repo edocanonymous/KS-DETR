@@ -43,8 +43,9 @@ KS-DAB-DETR-R50</a></td>
 <td align="center">IN1k</td>
 <td align="center">50</td>
 <td align="center">43.9</td>
-<td align="center"> <a href="">model</a></td>
+<td align="center"> <a href="https://drive.google.com/file/d/1TjIGuNlrUg1u2oFkiULpYIZmGqz-ZszC/view?usp=share_link">model</a></td>
 </tr>
+
 
 <!-- ROW: ks_dab_detr_r101_50ep -->
  <tr><td align="left"><a href="projects/ks_detr/configs/ks_dab_detr/ks_dab_detr_r101_50ep_smlp_qkv_triple_attn_share_outproj_ffn.py">
@@ -53,7 +54,7 @@ KS-DAB-DETR-R101</a></td>
 <td align="center">IN1k</td>
 <td align="center">50</td>
 <td align="center">45.3</td>
-<td align="center"> <a href="">model</a></td>
+<td align="center"> <a href="https://drive.google.com/file/d/1RM44UQsXsvq6_7_2UDnspRlQVAnZhmWJ/view?usp=share_link">model</a></td>
 
 <!-- ROW: ks_dab_detr_swin_t_in1k_50ep -->
  <tr><td align="left"><a href="projects/ks_detr/configs/ks_dab_detr/ks_dab_detr_swin_tiny_50ep_smlp_qkv_triple_attn_share_outproj_ffn.py">
@@ -62,7 +63,7 @@ KS-DAB-DETR-Swin-T</a></td>
 <td align="center">IN1k</td>
 <td align="center">50</td>
 <td align="center">47.1</td>
-<td align="center"> <a href="">model</a></td>
+<td align="center"> <a href="https://drive.google.com/file/d/1P971eidVaB0nt9Uhs6tOG79-q98G9eHg/view?usp=share_link">model</a></td>
 </tr>
 
 
@@ -75,7 +76,7 @@ KS-Conditional-DETR-R50</a></td>
 <td align="center">IN1k</td>
 <td align="center">50</td>
 <td align="center">45.3</td>
-<td align="center"> <a href="">model</a></td>
+<td align="center"> <a href="https://drive.google.com/file/d/1P971eidVaB0nt9Uhs6tOG79-q98G9eHg/view?usp=share_link">model</a></td>
 
 <!-- ROW: ks_conditional_detr_r101_50ep -->
  <tr><td align="left"><a href="projects/ks_detr/configs/ks_conditional_detr/ks_conditional_detr_r101_50ep_smlp_qkv_triple_attn_share_outproj_ffn.py">
@@ -84,7 +85,7 @@ KS-Conditional-DETR-R101</a></td>
 <td align="center">IN1k</td>
 <td align="center">50</td>
 <td align="center">47.1</td>
-<td align="center"> <a href="">model</a></td>
+<td align="center"> <a href="https://drive.google.com/file/d/1amZlGUnBBkrn-HIySklI7A0yB3erDrxk/view?usp=share_link">model</a></td>
 </tr>
 
 
@@ -95,7 +96,7 @@ KS-DN-DETR-R50</a></td>
 <td align="center">IN1k</td>
 <td align="center">50</td>
 <td align="center">45.2</td>
-<td align="center"> <a href="">model</a></td>
+<td align="center"> <a href="https://drive.google.com/file/d/1fd2qTXZnGxocq5m5rc97uFRa0WbhiSJl/view?usp=share_link">model</a></td>
 
 <!-- ROW: ks_dn_detr_r101_50ep -->
  <tr><td align="left"><a href="projects/ks_detr/configs/ks_dn_detr/ks_dn_detr_r101_50ep_smlp_qkv_triple_attn_share_outproj_ffn.py">
@@ -104,7 +105,7 @@ KS-DN-DETR-R101</a></td>
 <td align="center">IN1k</td>
 <td align="center">50</td>
 <td align="center">46.5</td>
-<td align="center"> <a href="">model</a></td>
+<td align="center"> <a href="https://drive.google.com/file/d/1fd2qTXZnGxocq5m5rc97uFRa0WbhiSJl/view?usp=share_link">model</a></td>
 </tr>
 
 
@@ -116,7 +117,7 @@ KS-Deformable-DETR-R50</a></td>
 <td align="center">IN1k</td>
 <td align="center">12</td>
 <td align="center">36.4</td>
-<td align="center"> <a href="">model</a></td>
+<td align="center"> <a href="https://drive.google.com/file/d/1tYM_c_Q2j3LEY_EZ_hTJa3XvT0oxaFu9/view?usp=share_link">model</a></td>
 
 <!-- ROW:  -->
  <tr><td align="left"><a href="projects/ks_detr/configs/ks_deformable_detr/ks_deformable_detr_r101_12ep_smlp_qkv_triple_attn_outproj_ffn_v0.py">
@@ -125,7 +126,7 @@ KS-Deformable-DETR-R101</a></td>
 <td align="center">IN1k</td>
 <td align="center">12</td>
 <td align="center">38.4</td>
-<td align="center"> <a href="">model</a></td>
+<td align="center"> <a href="https://drive.google.com/file/d/1fd2qTXZnGxocq5m5rc97uFRa0WbhiSJl/view?usp=share_link">model</a></td>
 </tr>
 
  <tr><td align="left"><a href="projects/ks_detr/configs/ks_dn_deformable_detr/ks_dn_deformable_detr_r50_12ep_smlp_qkv_triple_attn_outproj_ffn_v0.py">
@@ -134,7 +135,7 @@ KS-DN-Deformable-DETR-R50</a></td>
 <td align="center">IN1k</td>
 <td align="center">12</td>
 <td align="center">46.5</td>
-<td align="center"> <a href="">model</a></td>
+<td align="center"> <a href="https://drive.google.com/file/d/1fd2qTXZnGxocq5m5rc97uFRa0WbhiSJl/view?usp=share_link">model</a></td>
 
 <!-- ROW: ks_deformable_detr_r50_50ep -->
  <tr><td align="left"><a href="projects/ks_detr/configs/ks_deformable_detr/ks_deformable_detr_r50_50ep_smlp_qkv_triple_attn_outproj_ffn_v0.py">
@@ -143,7 +144,7 @@ KS-Deformable-DETR-R50</a></td>
 <td align="center">IN1k</td>
 <td align="center">50</td>
 <td align="center">44.8</td>
-<td align="center"> <a href="">model</a></td>
+<td align="center"> <a href="https://drive.google.com/file/d/1fd2qTXZnGxocq5m5rc97uFRa0WbhiSJl/view?usp=share_link">model</a></td>
 
 
 <!-- ROW: ks_deformable_detr_r101_50ep -->
@@ -153,7 +154,7 @@ KS-Deformable-DETR-R101</a></td>
 <td align="center">IN1k</td>
 <td align="center">50</td>
 <td align="center">46.0</td>
-<td align="center"> <a href="">model</a></td>
+<td align="center"> <a href="https://drive.google.com/file/d/1fd2qTXZnGxocq5m5rc97uFRa0WbhiSJl/view?usp=share_link">model</a></td>
 </tr>
 
 
@@ -184,6 +185,17 @@ pip install -e .
 
 
 ## Training
+To train the models with R101 backbone, the pretrained `IN1k` weights should be available at location `output/weights/R-101.pkl`.
+Your can follow  [`https://github.com/facebookresearch/detectron2/blob/main/tools/convert-torchvision-to-d2.py`](https://github.com/facebookresearch/detectron2/blob/main/tools/convert-torchvision-to-d2.py)
+convert [`https://download.pytorch.org/models/resnet101-5d3b4d8f.pth`](https://download.pytorch.org/models/resnet101-5d3b4d8f.pth) 
+to torchvision format and obtain `R-101.pkl` by 
+
+```shell
+ wget https://download.pytorch.org/models/resnet101-5d3b4d8f.pth -O output/r101.pth
+ python ./detectron2/tools/convert-torchvision-to-d2.py output/r101.pth output/weights/R-101.pkl
+```
+Or you can use our converted `R-101.pkl` file from this [link](https://drive.google.com/file/d/1OpXH1hlLI87ochfpOhU__Oohni6VEgeV/view?usp=share_link).
+
 All configs can be trained with:
 ```bash
 cd detrex
@@ -209,9 +221,6 @@ Model evaluation can be done as follows:
 cd detrex
 python tools/train_net.py --config-file projects/dab_detr/configs/path/to/config.py --eval-only train.init_checkpoint=/path/to/model_checkpoint
 ```
-
-For instance, 
-
 
 ## License
 
