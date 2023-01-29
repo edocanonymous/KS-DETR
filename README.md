@@ -25,24 +25,6 @@ We release our code for our submitted manuscript `KS-DETR: Knowledge Sharing in 
 
 Here we provide the pretrained `KS-DETR` weights based on detrex.
 
-
-
-
-
-[comment]: <> (Other Multi-scale DETR variants)
-[comment]: <> (Deformable-DETR-R50 12 35.3 51.8 38.2 19.2 39.1 47.2)
-[comment]: <> (KS-Deformable-DETR-R50 12 36.4 &#40;+1.1&#41; 53.5 39.5 20.1 39.5 48.2)
-[comment]: <> (Deformable-DETR-R101 12 36.8 54.2 40.0 21.1 40.3 49.2)
-[comment]: <> (KS-Deformable-DETR-R101 12 38.4 &#40;+1.6&#41; 55.9 41.8 21.5 42.3 51.6)
-[comment]: <> (DN-Deformable-DETR-R50 &#40;Li et al., 2022&#41; 12 43.4 61.9 47.2 24.8 46.8 59.4)
-[comment]: <> (KS-DN-Deformable-DETR-R50 12 46.5 &#40;+2.1&#41; 63.9 50.4 28.8 49.5 61.5)
-[comment]: <> (Deformable-DETR-R101 24 41.6 59.6 45.3 24.3 45.2 55.6)
-[comment]: <> (KS-Deformable-DETR-R101 24 43.0 &#40;+1.4&#41; 61.1 47.1 24.9 46.6 57.0)
-[comment]: <> (Deformable-DETR-R50 &#40;Zhu et al., 2021&#41; 50 44.1 62.6 47.7 26.4 47.1 58.0)
-[comment]: <> (KS-Deformable-DETR-R50 50 44.8 &#40;+0.7&#41; 62.9 48.7 26.9 48.4 58.9)
-[comment]: <> (Deformable-DETR-R101 50 45.1 63.5 49.1 27.4 48.8 59.9)
-[comment]: <> (KS-Deformable-DETR-R101 50 46.0 &#40;+0.9&#41; 64.3 50.1 28.9 49.7 60.3)
-
 <table><tbody>
 <!-- START TABLE -->
 <!-- TABLE HEADER -->
@@ -88,7 +70,7 @@ KS-DAB-DETR-Swin-T</a></td>
 
 <!-- ROW: ks_conditional_detr_r50 -->
  <tr><td align="left"><a href="projects/ks_detr/configs/ks_conditional_detr/ks_conditional_detr_r50_50ep_smlp_qkv_triple_attn_share_outproj_ffn.py">
-KS-DAB-DETR-R101</a></td>
+KS-Conditional-DETR-R50</a></td>
 <td align="center">R-50</td>
 <td align="center">IN1k</td>
 <td align="center">50</td>
@@ -97,7 +79,7 @@ KS-DAB-DETR-R101</a></td>
 
 <!-- ROW: ks_conditional_detr_r101_50ep -->
  <tr><td align="left"><a href="projects/ks_detr/configs/ks_conditional_detr/ks_conditional_detr_r101_50ep_smlp_qkv_triple_attn_share_outproj_ffn.py">
-KS-DAB-DETR-Swin-T</a></td>
+KS-Conditional-DETR-R101</a></td>
 <td align="center">R-101</td>
 <td align="center">IN1k</td>
 <td align="center">50</td>
@@ -166,11 +148,11 @@ KS-Deformable-DETR-R50</a></td>
 
 <!-- ROW: ks_deformable_detr_r101_50ep -->
  <tr><td align="left"><a href="projects/ks_detr/configs/ks_deformable_detr/ks_deformable_detr_r101_50ep_smlp_qkv_triple_attn_outproj_ffn_v0.py">
-Deformable-DETR-R101</a></td>
+KS-Deformable-DETR-R101</a></td>
 <td align="center">R-101</td>
 <td align="center">IN1k</td>
-<td align="center">24</td>
-<td align="center">45.1</td>
+<td align="center">50</td>
+<td align="center">46.0</td>
 <td align="center"> <a href="">model</a></td>
 </tr>
 
@@ -207,7 +189,6 @@ All configs can be trained with:
 cd detrex
 python tools/train_net.py --config-file projects/dab_detr/configs/path/to/config.py --num-gpus 8
 ```
-By default, we use 8 GPUs with total batch size as 16 for training.
 
 
 
