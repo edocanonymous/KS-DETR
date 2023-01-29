@@ -1,4 +1,0 @@
-from .ks_dab_deformable_detr_r50_smlp_qkv_triple_attn_outproj_ffn import model
-
-model.transformer.encoder.encoder_layer_config = 'regular_5-DeformableTripleAttnShareAttnVOutProjFFNV0_1'
-

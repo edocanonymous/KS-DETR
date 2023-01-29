@@ -1,8 +1,0 @@
-from .ks_dab_detr_r50_smlp_qkv_triple_attn_outproj_ffn_v0 import model
-
-# DualAttnShareAttnOutProjFFNV0
-# TripleAttnQKVShareAttnOutProjFFNV0_1
-model.transformer.encoder.encoder_layer_config = 'regular_5-DualAttnShareAttnOutProjFFNV0_1'
-
-from projects.ks_detr.configs.ks_sgdts.dual_head_smlp_share_qk_outpro_ffn import ksgt_module
-model.ksgt = ksgt_module
