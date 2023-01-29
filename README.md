@@ -5,14 +5,13 @@ We release our code for our submitted manuscript `KS-DETR: Knowledge Sharing in 
 
 <div align="center">
   <img src="./projects/ks_detr/assets/ks-detr-freamework.png"/>
+ <img src="./projects/ks_detr/assets/triple_attention.png"/>
+
+[comment]: <> (  <img src="./projects/ks_detr/assets/teacher-attn-accu.png"/>)
 </div><br/>
-<div align="center">
-  <img src="./projects/ks_detr/assets/triple_attention.png"/>
-</div><br/>
-<div align="center">
-  <img src="./projects/ks_detr/assets/teacher-attn-accu.png"/>
-</div><br/>
-      
+
+ 
+
 ## Main results
 
 
