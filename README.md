@@ -185,15 +185,15 @@ pip install -e .
 
 ## Training
 To train the models with R101 backbone, the pretrained `IN1k` weights should be available at location `output/weights/R-101.pkl`.
-Your can follow  [`https://github.com/facebookresearch/detectron2/blob/main/tools/convert-torchvision-to-d2.py`](https://github.com/facebookresearch/detectron2/blob/main/tools/convert-torchvision-to-d2.py)
-convert [`https://download.pytorch.org/models/resnet101-5d3b4d8f.pth`](https://download.pytorch.org/models/resnet101-5d3b4d8f.pth) 
+We can follow  [`https://github.com/facebookresearch/detectron2/blob/main/tools/convert-torchvision-to-d2.py`](https://github.com/facebookresearch/detectron2/blob/main/tools/convert-torchvision-to-d2.py)
+to convert [`https://download.pytorch.org/models/resnet101-5d3b4d8f.pth`](https://download.pytorch.org/models/resnet101-5d3b4d8f.pth) 
 to torchvision format and obtain `R-101.pkl` by 
 
 ```shell
  wget https://download.pytorch.org/models/resnet101-5d3b4d8f.pth -O output/r101.pth
  python ./detectron2/tools/convert-torchvision-to-d2.py output/r101.pth output/weights/R-101.pkl
 ```
-Or you can use our converted `R-101.pkl` file from this [link](https://drive.google.com/file/d/1OpXH1hlLI87ochfpOhU__Oohni6VEgeV/view?usp=share_link).
+We provide our converted `R-101.pkl` file [here](https://drive.google.com/file/d/1OpXH1hlLI87ochfpOhU__Oohni6VEgeV/view?usp=share_link).
 
 All configs can be trained with:
 ```bash
