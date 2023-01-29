@@ -1,0 +1,2 @@
+from .ks_dn_detr_r50_multi_attn import model
+model.transformer.encoder.encoder_layer_config = 'regularSW_5-DualAttnShareAttnOutProjFFNV0_1'

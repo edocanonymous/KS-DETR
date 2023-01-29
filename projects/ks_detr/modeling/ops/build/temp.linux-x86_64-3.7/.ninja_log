@@ -1,0 +1,10 @@
+# ninja log v5
+0	10367	1661241784604778250	/media/sirius/T/project/code/DN-DETR/models/dn_dab_deformable_detr/ops/build/temp.linux-x86_64-3.7/media/sirius/T/project/code/DN-DETR/models/dn_dab_deformable_detr/ops/src/cpu/ms_deform_attn_cpu.o	5a47a9b8d8c36856
+0	21145	1661241795372847238	/media/sirius/T/project/code/DN-DETR/models/dn_dab_deformable_detr/ops/build/temp.linux-x86_64-3.7/media/sirius/T/project/code/DN-DETR/models/dn_dab_deformable_detr/ops/src/cuda/ms_deform_attn_cuda.o	bca2e38558ab00f8
+0	30698	1661241804928908356	/media/sirius/T/project/code/DN-DETR/models/dn_dab_deformable_detr/ops/build/temp.linux-x86_64-3.7/media/sirius/T/project/code/DN-DETR/models/dn_dab_deformable_detr/ops/src/vision.o	1a5d953594f5a9b3
+3	3784	1661242751114046221	/media/sirius/T/project/code/DN-DETR/models/dn_dab_deformable_detr/ops/build/temp.linux-x86_64-3.7/media/sirius/T/project/code/DN-DETR/models/dn_dab_deformable_detr/ops/src/cpu/ms_deform_attn_cpu.o	b97cd6caff835c8a
+4	11988	1661242759314062020	/media/sirius/T/project/code/DN-DETR/models/dn_dab_deformable_detr/ops/build/temp.linux-x86_64-3.7/media/sirius/T/project/code/DN-DETR/models/dn_dab_deformable_detr/ops/src/cuda/ms_deform_attn_cuda.o	930912236d9972ac
+3	17853	1661242765178073533	/media/sirius/T/project/code/DN-DETR/models/dn_dab_deformable_detr/ops/build/temp.linux-x86_64-3.7/media/sirius/T/project/code/DN-DETR/models/dn_dab_deformable_detr/ops/src/vision.o	2a751d9553e5e83d
+31	4851	1661299811784402727	/media/sirius/T/project/code/DN-DETR/models/dn_dab_deformable_detr/ops/build/temp.linux-x86_64-3.7/media/sirius/T/project/code/DN-DETR/models/dn_dab_deformable_detr/ops/src/cpu/ms_deform_attn_cpu.o	5a47a9b8d8c36856
+31	15310	1661299822236450072	/media/sirius/T/project/code/DN-DETR/models/dn_dab_deformable_detr/ops/build/temp.linux-x86_64-3.7/media/sirius/T/project/code/DN-DETR/models/dn_dab_deformable_detr/ops/src/cuda/ms_deform_attn_cuda.o	bca2e38558ab00f8
+30	19057	1661299825988467397	/media/sirius/T/project/code/DN-DETR/models/dn_dab_deformable_detr/ops/build/temp.linux-x86_64-3.7/media/sirius/T/project/code/DN-DETR/models/dn_dab_deformable_detr/ops/src/vision.o	1a5d953594f5a9b3
