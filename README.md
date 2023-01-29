@@ -3,17 +3,20 @@
 
 We release our code for our submitted manuscript `KS-DETR: Knowledge Sharing in Attention Learning for Detection Transformer`.
 
-[comment]: <> (Solarized dark             |  Solarized Ocean)
-:-------------------------:|:-------------------------:
-![ks-detr arch](./projects/ks_detr/assets/ks-detr-freamework.png)  |  ![triple attention](./projects/ks_detr/assets/triple_attention.png)
+[comment]: <> ([comment]: <> &#40;Solarized dark             |  Solarized Ocean&#41;)
+
+[comment]: <> (:-------------------------:|:-------------------------:)
+
+[comment]: <> (![ks-detr arch]&#40;./projects/ks_detr/assets/ks-detr-freamework.png&#41;  |  ![triple attention]&#40;./projects/ks_detr/assets/triple_attention.png&#41;)
 
 
-[comment]: <> (<div align="center">)
+<div align="center">
 
-[comment]: <> (  <img src="./projects/ks_detr/assets/ks-detr-freamework.png"/>)
+  <img src="./projects/ks_detr/assets/ks-detr-freamework.png" width="45%"/>
 
-[comment]: <> ( <img src="./projects/ks_detr/assets/triple_attention.png"/>)
-[comment]: <> (</div><br/>)
+ <img src="./projects/ks_detr/assets/triple_attention.png" width="45%"/>
+</div><br/>
+
 [comment]: <> (  <img src="./projects/ks_detr/assets/teacher-attn-accu.png"/>)
  
 
