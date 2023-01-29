@@ -157,12 +157,11 @@ KS-Deformable-DETR-R101</a></td>
 <td align="center"> <a href="https://drive.google.com/file/d/1fd2qTXZnGxocq5m5rc97uFRa0WbhiSJl/view?usp=share_link">model</a></td>
 </tr>
 
-
 </tbody></table>
 
 
 
-## What's New
+[comment]: <> (## What's New)
 
 
 
@@ -180,7 +179,7 @@ pip install -e .
 
 ```
 
-## Getting Started
+[comment]: <> (## Getting Started)
 
 
 
