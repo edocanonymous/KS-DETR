@@ -3,7 +3,7 @@
 
 We release our code for our submitted manuscript `KS-DETR: Knowledge Sharing in Attention Learning for Detection Transformer`.
 
-Solarized dark             |  Solarized Ocean
+[comment]: <> (Solarized dark             |  Solarized Ocean)
 :-------------------------:|:-------------------------:
 ![ks-detr arch](./projects/ks_detr/assets/ks-detr-freamework.png)  |  ![triple attention](./projects/ks_detr/assets/triple_attention.png)
 
