@@ -120,7 +120,7 @@ KS-Deformable-DETR-R50</a></td>
 
 <!-- ROW:  -->
  <tr><td align="left"><a href="projects/ks_detr/configs/ks_deformable_detr/ks_deformable_detr_r101_12ep_smlp_qkv_triple_attn_outproj_ffn_v0.py">
-KS-DAB-DETR-Swin-T</a></td>
+KS-Deformable-DETR-R101</a></td>
 <td align="center">R-101</td>
 <td align="center">IN1k</td>
 <td align="center">12</td>
