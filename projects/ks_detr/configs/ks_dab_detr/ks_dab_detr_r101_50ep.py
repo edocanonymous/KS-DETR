@@ -3,7 +3,7 @@ from .ks_dab_detr_r50_50ep import (
     dataloader,
     optimizer,
     lr_multiplier,
-    # model,
+    model,
 )
 
 

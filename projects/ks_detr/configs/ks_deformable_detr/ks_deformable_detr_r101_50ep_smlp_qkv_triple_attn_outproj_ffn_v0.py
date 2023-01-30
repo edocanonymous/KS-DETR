@@ -1,10 +1,12 @@
-from .ks_deformable_detr_r50_50ep_smlp_qkv_triple_attn_outproj_ffn_v0 import (
+from .ks_deformable_detr_r50_50ep import (
     train,
     dataloader,
     optimizer,
     lr_multiplier,
     # model,
 )
+
+from .models.ks_deformable_detr_r50_smlp_qkv_triple_attn_outproj_ffn_v0 import model
 
 # modify model config
 from ..utils import get_out_dir_from_file_name, R101_WEIGHT_PATH
