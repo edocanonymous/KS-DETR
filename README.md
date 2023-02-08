@@ -96,7 +96,7 @@ KS-DN-DETR-R50</a></td>
 <td align="center">IN1k</td>
 <td align="center">50</td>
 <td align="center">45.2</td>
-<td align="center"> <a href="https://drive.google.com/file/d/1fd2qTXZnGxocq5m5rc97uFRa0WbhiSJl/view?usp=share_link">model</a></td>
+<td align="center"> <a href="https://drive.google.com/file/d/1CemLoPayF52HYFEydDJ-B5F-_BwBeptC/view?usp=share_link">model</a></td>
 
 <!-- ROW: ks_dn_detr_r101_50ep -->
  <tr><td align="left"><a href="projects/ks_detr/configs/ks_dn_detr/ks_dn_detr_r101_50ep_smlp_qkv_triple_attn_share_outproj_ffn.py">
