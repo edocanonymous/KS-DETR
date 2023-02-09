@@ -5,7 +5,7 @@ from .ks_dab_detr_r50_50ep import (
     lr_multiplier,
     # model,
 )
-from .models.ks_dab_detr_swin_base_smlp_qkv_triple_attn_outproj_ffn_v0 import model
+from .models.ks_dab_detr_swin_small_smlp_qkv_triple_attn_outproj_ffn_v0 import model
 
 
 # dump the testing results into output_dir for visualization
