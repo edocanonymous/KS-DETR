@@ -172,7 +172,7 @@ KS-Deformable-DETR-R101</a></td>
 conda create -n ksdetr python=3.8 -y
 conda activate ksdetr
 
-git clone https://github.com/edocanonymous/KS-DETR.git
+git clone https://github.com/edocanonymous/KS-DETR
 cd KS-DETR
 python -m pip install -e detectron2
 pip install -e .
@@ -205,11 +205,11 @@ python tools/train_net.py --config-file projects/dab_detr/configs/path/to/config
 
 To train `KS-DAB-DETR-R50`, `KS-DAB-DETR-R101`, and `KS-DAB-DETR-Swin-T`,
 ```bash
-python tools/train_net.py --config-file projects/ks_detr/configs/ks_dab_detr/ks_dab_detr_r50_50ep_smlp_qkv_triple_attn_share_outproj_ffn.py --num-gpus 8
+python tools/train_net.py --config-file projects/ks_detr/configs/ks_dab_detr/ks_dab_detr_r50_50ep_smlp_qkv_triple_attn.py --num-gpus 8
 
-python tools/train_net.py --config-file projects/ks_detr/configs/ks_dab_detr/ks_dab_detr_r101_50ep_smlp_qkv_triple_attn_share_outproj_ffn.py --num-gpus 8
+python tools/train_net.py --config-file projects/ks_detr/configs/ks_dab_detr/ks_dab_detr_r101_50ep_smlp_qkv_triple_attn.py --num-gpus 8
 
-python tools/train_net.py --config-file projects/ks_detr/configs/ks_dab_detr/ks_dab_detr_swin_tiny_50ep_smlp_qkv_triple_attn_share_outproj_ffn.py --num-gpus 8
+python tools/train_net.py --config-file projects/ks_detr/configs/ks_dab_detr/ks_dab_detr_swin_tiny_50ep_smlp_qkv_triple_attn.py --num-gpus 8
 
 ```
 
